@@ -11,11 +11,31 @@
 |
 */
 
+
+
 Route::get('/', function () {
-    return view('/');
+    return view('pages.home');
 });
 
-Route:: get("/portfolio", function(){
-        return view ("portfolio");
+Route:: get("/about", function(){
+        return view ("pages.about");
+
+});
+
+Route:: get("/project1", function(){
+        return view ("pages.project1");
+
+});
+
+Route:: get("/project2", function(){
+        return view ("pages.project2");
+
+});
+Route:: get("/project3", function(){
+        return view ("pages.project3");
+
+});
+Route:: get("/contact", function(){
+        return view ("pages.contact");
 
 });
