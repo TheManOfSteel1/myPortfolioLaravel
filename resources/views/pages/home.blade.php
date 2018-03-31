@@ -3,27 +3,33 @@
 
 
 @section('content')
-
+<link rel="stylesheet" type="text/css" href="/css/home.css">
     <style>
     background: url("")
 
     </style>
 
-    <div class="row">
-        <div class="col">
 
-            <img src="../images/schoollogo.png" width="250" height="100"></br>
+    <div class="row  text-center">
+        <div class="col text-center">
+
             </br>
             </br>
-            <img class="float" src="../images/MyNewPic.jpg" width="300" height="200" />
-            <h1 style="color: white">&nbsp&nbsp&nbspJavier Duarte</h1>
+            <img class="float rounded" src="../images/MyNewPic.jpg" alt="Avatar" width="500" height="350" class="image"/>
+        </br></br><h2 style="color: white">Summary</h2>
         </div>
 
         <p style="color: white">
-            A Valley native, where I obtained my Associates in Interdisciplinary Studies at South Texas College. My extensive knowledege of prior military, education, and prior work experience has endured me to be at my best at any task given to me.
-        </br></br>
-            Valley Tech is my bootcamp school where I attended and has gotten me to where I am today. Valley Tech Academy me has made me who I have become, a more tech saavy and knowledgable person with even more bigger endeavers to come.
+            Full Stack Developer with extensive knowledge of MySQL, JSON, PHP, JavaScript, HTML/CSS, Bootstrap 4, jQuery, Word Press and the PHP MVC framework Laravel. Experienced with working in multiple projects using different languages and technologies related to front-end and back-end development. Clear understanding of good practices of Web Design and clean coding. Continuously researching the best and most recent technologies and practices to use in current projects..
         </p>
+    <div class="col text-center">
+        <h2 class="text-center" style="color: white">Skills</h2>
+    </div>
+        <p style="color: white">
+            HTML5, CSS3,  Bootstrap 4, Javascript, jQuery, PHP, Laravel-MVC, RESTful APIs, GIT and source control, Front-end development, Back-end-development, Unit and integration testing.
+        </p>
+
+
 
     </div>
 
