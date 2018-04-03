@@ -61,7 +61,7 @@
   Copyright (c) 2018 - Morgan
   ========================================================================
   -->
-  <title>Morgan - Personal Portfolio Template</title>
+  <title>Javier - Personal Portfolio</title>
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
@@ -73,15 +73,15 @@
   <!-- End -->
 
   <!-- Plugin Css -->
-  <link href="static/plugin/bootstrap/css/bootstrap.min.css" rel="stylesheet"> <!-- bootstrap -->
-  <link href="static/plugin/font-awesome/css/font-awesome.min.css" rel="stylesheet"> <!-- font-awesome -->
-  <link href="static/plugin/owl-carousel/css/owl.carousel.min.css" rel="stylesheet"> <!-- owl-carousel -->
-  <link href="static/plugin/et-line/style.css" rel="stylesheet">
+  <link href="/css/bootstrap.css" rel="stylesheet"> <!-- bootstrap -->
+  <link href="/css/font-awesome.css" rel="stylesheet"> <!-- font-awesome -->
+  <link href="/css/owlcarousel.min.css" rel="stylesheet"> <!-- owl-carousel -->
+  <link href="/css/style1.css" rel="stylesheet">
   <!-- End -->
 
   <!-- Theme css -->
-  <link href="static/css/style.css" rel="stylesheet"> <!-- Style -->
-    <link href="static/css/color/color-5.css" rel="stylesheet" id="color_theme">
+  <link href="/css/style2.css" rel="stylesheet"> <!-- Style -->
+    <link href="/css/color.css" rel="stylesheet" id="color_theme">
 
   <!-- End -->
 </head>
@@ -97,7 +97,7 @@
     <div class="container">
     <!-- Nav -->
     <nav class="navbar navbar-expand-lg">
-      <a class="navbar-brand font-alt" href="#">Morgan</a>
+      <a class="navbar-brand font-alt" href="#">Javier</a>
       <!-- Mobile Toggle -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#header-01" aria-controls="header-01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -130,7 +130,7 @@
             <p>Your browser does not support the video tag. I suggest you upgrade your browser.</p>
         </video>
         <div class="home-text-center text-center">
-          <h1>Hello I'm Morgan</h1>
+          <h1>Hello I'm Javier</h1>
           <h3>A Professional Web <span id="type-it"></span></h3>
         </div>
     </section>
@@ -572,17 +572,17 @@
 
               <div class="contact-info">
                 <i class="icon icon-map"></i>
-                <p>301 The Greenhouse,<br/> London, E2 8DY.</p>
+                <p>4405 Thunderbird Ave,<br/>McAllen, TX 78504</p>
               </div>
 
               <div class="contact-info">
                 <i class="icon icon-envelope"></i>
-                <p>example@example.com</p>
+                <p>javi@jduart.me</p>
               </div>
 
               <div class="contact-info">
                 <i class="icon icon-phone"></i>
-                <p>+1 800-222-000</p>
+                <p>(956) 212-9229</p>
               </div>
 
               <ul class="social-icons social-icons-no-border">
@@ -656,7 +656,7 @@
                   <a class="linkedin" href="#"><i class="fa fa-linkedin"></i><span></span></a>
               </li>
           </ul>
-          <p class="copyright">© 2018 Morgan. All Rights Reserved</p>
+          <p class="copyright">© 2018 Javier. All Rights Reserved</p>
       </div>
   </footer>
 
@@ -680,7 +680,7 @@
 
   <!-- for demo -->
   <script src="style-switcher/style-switcher.js"></script>
-  <link rel="stylesheet" href="style-switcher/style-switcher.css">
+  <link rel="stylesheet" href="/css/style-switcher.css">
 
 
 </body>
