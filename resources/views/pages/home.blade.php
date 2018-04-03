@@ -63,7 +63,7 @@
   -->
   <title>Javier - Personal Portfolio</title>
   <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="/videos/favicon.ico">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Rubik:500,500i,700,700i,900" rel="stylesheet">
@@ -125,8 +125,8 @@
     <section id="home" class="home-video-banner home-banner">
       <div class="filter"></div>
         <video autoplay loop class="fillWidth">
-            <source src="static/img/Working-it.mp4" type="video/mp4" />
-            <source src="static/img/Working-it.webm" type="video/webm" />
+            <source src="/videos/meTyping.mp4" type="video/mp4" />
+            <source src="/videos/Working-it.webm" type="video/webm" />
             <p>Your browser does not support the video tag. I suggest you upgrade your browser.</p>
         </video>
         <div class="home-text-center text-center">
