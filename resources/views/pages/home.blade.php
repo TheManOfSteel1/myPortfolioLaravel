@@ -108,9 +108,9 @@
         <ul class="nav navbar-nav ml-auto">
             <li><a href="#home">Home</a></li>
             <li><a href="#about-us">About</a></li>
-            <li><a href="#services">Services</a></li>
+            {{-- <li><a href="#services">Services</a></li> --}}
             <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#blog">Blog</a></li>
+            {{-- <li><a href="#blog">Blog</a></li> --}}
             <li><a href="#contact">Contact</a></li>
           </ul>
         <!-- Menu End -->
@@ -411,7 +411,7 @@
     <!-- ========== Portfolio End ========== -->
 
     <!-- ========== Our Client ========== -->
-    <section class="section">
+    {{-- <section class="section">
       <div class="container">
         <div class="section-heading text-center m-b-65px m-b-50px-md m-b-25px-sm">
             <h2 class="font-alt">My Clients</h2>
@@ -447,7 +447,7 @@
         </div>
       </div> <!-- section -->
     </section>
-    <!-- ========== Our Client End ========== -->
+    <!-- ========== Our Client End ========== --> --}}
 
     <!-- ========== Testimonial ========== -->
     <section class="section gray-bg testimonial-section">
@@ -487,7 +487,7 @@
     <!-- ========== Testimonial End ========== -->
 
     <!-- ========== Our Blogs ========== -->
-    <section id="blog" class="section">
+    {{-- <section id="blog" class="section">
       <div class="container">
         <div class="section-heading text-center m-b-50px m-b-40px-md m-b-15px-sm">
             <h2 class="font-alt">My Blog</h2>
@@ -556,7 +556,7 @@
 
         </div> <!-- row -->
       </div>
-    </section>
+    </section> --}}
     <!-- ========== Our Blog End ========== -->
 
     <!-- ========== Contact us ========== -->
@@ -661,25 +661,25 @@
   </footer>
 
   <!-- Jquery -->
-  <script src="static/js/jquery-3.2.1.min.js"></script>
-  <script src="static/js/jquery-migrate-3.0.0.min.js"></script>
+  <script src="/js/jquery-3.2.1.min.js"></script>
+  <script src="/js/jquery-migrate-3.0.0.min.js"></script>
   <!-- End -->
 
   <!-- Plugin JS -->
-  <script src="static/plugin/bootstrap/js/popper.min.js"></script><!--bootstrap-->
-  <script src="static/plugin/bootstrap/js/bootstrap.js"></script><!--bootstrap-->
-  <script src="static/plugin/owl-carousel/js/owl.carousel.min.js"></script><!-- owl-carousel -->
-  <script src="static/plugin/typeit-master/typeit.min.js"></script>
-  <script src="static/plugin/skills-bar/skill.bars.jquery.js"></script>
+  <script src="/js/popper.min.js"></script><!--bootstrap-->
+  <script src="/js/bootstrap.js"></script><!--bootstrap-->
+  <script src="/js/owl.carousel.min.js"></script><!-- owl-carousel -->
+  <script src="/js/typeit.min.js"></script>
+  <script src="/js/skill.bars.jquery.js"></script>
   <!-- End -->
 
   <!-- Theme Js -->
-  <script src="static/js/singlepagenav.jquery.js"></script>
-  <script src="static/js/custom.js"></script>
+  <script src="/js/singlepagenav.jquery.js"></script>
+  <script src="/js/custom.js"></script>
   <!-- End -->
 
   <!-- for demo -->
-  <script src="style-switcher/style-switcher.js"></script>
+  <script src="/js/style-switcher.js"></script>
   <link rel="stylesheet" href="/css/style-switcher.css">
 
 
